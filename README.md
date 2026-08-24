@@ -49,3 +49,15 @@ LeetCode 题解，使用 C++。
 | 3731 | find-missing-elements | Easy |
 | 4006 | count-valid-prefixes | Easy |
 | 4010 | maximize-pair-strength-using-gcd | Easy |
+
+## luogu
+
+- B3714 [语言月赛202302] 牵连的世界 (Easy Version).cpp
+- B4131 [信息与未来 2014] 奇怪的车牌号.cpp
+- P1003 [NOIP 2011 提高组] 铺地毯.cpp
+- P1004 [NOIP 2000 提高组] 方格取数.cpp
+- P1046 [NOIP 2005 普及组] 陶陶摘苹果.cpp
+
+## 其他
+
+- snake.cpp
