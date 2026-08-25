@@ -60,4 +60,4 @@ LeetCode 题解，使用 C++。
 
 ## 其他
 
-- snake.cpp
+- snake/ (Visual Studio 贪吃蛇项目)
