@@ -3,7 +3,7 @@
 LeetCode 题解，使用 C++。
 
 - 力扣主页：https://leetcode.cn/u/SJKjyPI989/
-- 已收录题目：39 道
+- 已收录题目：40 道
 - 导出时间：2026-08-24
 
 ## leetcode
@@ -25,6 +25,7 @@ LeetCode 题解，使用 C++。
 | 0014 | longest-common-prefix | Easy |
 | 0015 | 3sum | Medium |
 | 0016 | 3sum-closest | Medium |
+| 0128 | longest-consecutive-sequence | Medium |
 | 0049 | group-anagrams | Medium |
 | 0383 | ransom-note | Easy |
 | 0486 | predict-the-winner | Medium |
