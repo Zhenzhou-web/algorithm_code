@@ -3,8 +3,8 @@
 LeetCode 题解，使用 C++。
 
 - 力扣主页：https://leetcode.cn/u/SJKjyPI989/
-- 已收录题目：40 道
-- 导出时间：2026-08-24
+- 已收录题目：49 道
+- 导出时间：2026-09-06
 
 ## leetcode
 
@@ -25,8 +25,10 @@ LeetCode 题解，使用 C++。
 | 0014 | longest-common-prefix | Easy |
 | 0015 | 3sum | Medium |
 | 0016 | 3sum-closest | Medium |
-| 0128 | longest-consecutive-sequence | Medium |
+| 0019 | remove-nth-node-from-end-of-list | Medium |
 | 0049 | group-anagrams | Medium |
+| 0128 | longest-consecutive-sequence | Medium |
+| 0283 | move-zeroes | Easy |
 | 0383 | ransom-note | Easy |
 | 0486 | predict-the-winner | Medium |
 | 0628 | maximum-product-of-three-numbers | Easy |
@@ -38,6 +40,8 @@ LeetCode 题解，使用 C++。
 | 1510 | stone-game-iv | Hard |
 | 1672 | richest-customer-wealth | Easy |
 | 1927 | sum-game | Medium |
+| 2058 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Medium |
+| 2904 | shortest-and-lexicographically-smallest-beautiful-string | Medium |
 | 2996 | smallest-missing-integer-greater-than-sequential-prefix-sum | Easy |
 | 3014 | minimum-number-of-pushes-to-type-word-i | Easy |
 | 3069 | distribute-elements-into-two-arrays-i | Easy |
@@ -47,7 +51,12 @@ LeetCode 题解，使用 C++。
 | 3471 | find-the-largest-almost-missing-integer | Easy |
 | 3517 | smallest-palindromic-rearrangement-i | Medium |
 | 3518 | smallest-palindromic-rearrangement-ii | Hard |
+| 3718 | smallest-missing-multiple-of-k | Easy |
 | 3731 | find-missing-elements | Easy |
+| 3875 | construct-uniform-parity-array-i | Easy |
+| 3876 | construct-uniform-parity-array-ii | Medium |
+| 3903 | smallest-stable-index-i | Easy |
+| 3904 | smallest-stable-index-ii | Medium |
 | 4006 | count-valid-prefixes | Easy |
 | 4010 | maximize-pair-strength-using-gcd | Easy |
 
